@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
-description: > # "Wesley Wei Qian's Personal Page"
+url: http://www.lals1.github.io/
+title: Shankar Lal
+email: sl@gmail.com
+author: Shankar Lal
+description: > # "Shankar Lal's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,19 +26,19 @@ gems:
 social:
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/wesleychin0919
+    url: https://www.linkedin.com/in/shankar-lal/
   - icon: flask
     title: scholar
-    url: https://scholar.google.com/citations?user=SZ5EErcAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=-caizxYAAAAJ&hl=en
   - icon: github
     title: github
-    url: https://github.com/WesleyyC
-  - icon: instagram
-    title: life
-    url: https://www.instagram.com/wesleyy.c
-  - icon: file-pdf-o
-    title: resume
-    url: http://www.wesleyq.me/rsc/resume.pdf
+    url: https://github.com/lals1
+#  - icon: instagram
+#    title: life
+#    url: https://www.instagram.com/wesleyy.c
+#  - icon: file-pdf-o
+#    title: resume
+#    url: www.lals1.github.io
   - icon: envelope-o
     title: email
-    url: mailto:wesley.chin0919@gmail.com
+    url: mailto:sl@gmail.com
