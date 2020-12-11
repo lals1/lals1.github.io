@@ -1,4 +1,4 @@
-# <a href="http://www.wesleyq.me"> shankar-lal.tk </a>
+# <a href="http://shankar-lal.tk"> shankar-lal.tk </a>
 
 This repository contains the code for my personal website.
 
