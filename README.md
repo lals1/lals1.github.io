@@ -2,4 +2,4 @@
 
 This repository contains the code for my personal website.
 
-![preview](https://github.com/WesleyyC/wesleyyc.github.io/raw/master/rsc/mysite.png)
+![preview](https://github.com/lals1/lals1.github.io/raw/master/rsc/mysite.jpg)
